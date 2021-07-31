@@ -22,7 +22,7 @@ function setup() {
 
 	paperObject=new Paper(80,300,25);
 	ground=new Ground(400,690,798,15);
-	dustbin=new Dustbin(680,670,10,10);
+	dustbin=new Dustbin(685,670,10,10);
   
 }
 
